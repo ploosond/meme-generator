@@ -22,7 +22,7 @@ This is a solution to the [Meme Generator project on Scrimba](https://scrimba.co
 
 ### Screenshot
 
-<img src="./src/screenshots/screenshot.png" width="70%"/>
+![ScreenShot](screenshots/screenshot.jpg)
 
 ### Getting Started with Create React App
 
